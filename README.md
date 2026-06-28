@@ -1,2 +1,1 @@
-# Portfolio
-A static HTML structure for a portfolio mock up for roadmap SH projects.
+https://roadmap.sh/projects/basic-html-website
